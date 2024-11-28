@@ -1,1 +1,2 @@
-Estructura client-servidor usando sockets con Python y C
+*client-server*
+Estructura cliente-servidor usando sockets con Python y C
